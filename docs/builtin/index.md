@@ -24,3 +24,8 @@ AI 相关的操作。
 HTML 相关的操作。
 
 [HTML](/builtin/modules/html.html)
+
+## App
+App 相关的操作。
+
+[App](/builtin/modules/app.html)
