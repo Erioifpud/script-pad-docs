@@ -19,3 +19,8 @@ AI 相关的操作。
 读取配置相关的操作。
 
 [Config](/builtin/modules/config.html)
+
+## HTML
+HTML 相关的操作。
+
+[HTML](/builtin/modules/html.html)
