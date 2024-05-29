@@ -29,3 +29,8 @@ HTML 相关的操作。
 App 相关的操作。
 
 [App](/builtin/modules/app.html)
+
+## Input
+输入相关的操作。
+
+[Input](/builtin/modules/input.html)
