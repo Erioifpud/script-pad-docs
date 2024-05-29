@@ -47,3 +47,8 @@ React 对象本体，用于提供 Babel 进行 JSX 转译。
 剪贴板相关的操作。
 
 [Clipboard](/builtin/modules/clipboard.html)
+
+## UUID
+UUID 相关的操作。
+
+[UUID](/builtin/modules/uuid.html)
