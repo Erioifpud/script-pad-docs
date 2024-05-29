@@ -5,6 +5,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
+  base: '/script-pad-docs/',
+
   title: 'Script Pad',
   description: 'Script Pad 相关文档',
 
