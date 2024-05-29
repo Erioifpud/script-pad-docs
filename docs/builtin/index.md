@@ -34,3 +34,6 @@ App 相关的操作。
 输入相关的操作。
 
 [Input](/builtin/modules/input.html)
+
+## React
+React 对象本体，用于提供 Babel 进行 JSX 转译。
