@@ -1,54 +1,5 @@
 # 内置对象
-
-## FileManager
-文件相关的操作。
-
-[FileManager](/builtin/modules/file-manager.html)
-
-## Request
-网络请求相关的操作。
-
-[Request](/builtin/modules/request.html)
-
-## AI
-AI 相关的操作。
-
-[AI](/builtin/modules/ai.html)
-
-## Config
-读取配置相关的操作。
-
-[Config](/builtin/modules/config.html)
-
-## HTML
-HTML 相关的操作。
-
-[HTML](/builtin/modules/html.html)
-
-## App
-App 相关的操作。
-
-[App](/builtin/modules/app.html)
-
-## Input
-输入相关的操作。
-
-[Input](/builtin/modules/input.html)
+所有内置对象请看左侧菜单。
 
 ## React
 React 对象本体，用于提供 Babel 进行 JSX 转译。
-
-## TTS
-语音合成相关的操作。
-
-[TTS](/builtin/modules/tts.html)
-
-## Clipboard
-剪贴板相关的操作。
-
-[Clipboard](/builtin/modules/clipboard.html)
-
-## UUID
-UUID 相关的操作。
-
-[UUID](/builtin/modules/uuid.html)
