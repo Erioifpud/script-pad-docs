@@ -14,3 +14,8 @@
 AI 相关的操作。
 
 [AI](/builtin/modules/ai.html)
+
+## Config
+读取配置相关的操作。
+
+[Config](/builtin/modules/config.html)
