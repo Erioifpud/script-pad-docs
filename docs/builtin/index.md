@@ -42,3 +42,8 @@ React 对象本体，用于提供 Babel 进行 JSX 转译。
 语音合成相关的操作。
 
 [TTS](/builtin/modules/tts.html)
+
+## Clipboard
+剪贴板相关的操作。
+
+[Clipboard](/builtin/modules/clipboard.html)
