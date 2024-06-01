@@ -30,6 +30,7 @@ export default defineUserConfig({
             '/builtin/modules/clipboard.md',
             '/builtin/modules/uuid.md',
             '/builtin/modules/lib.md',
+            '/builtin/modules/notice.md',
           ]
         }
       ]
