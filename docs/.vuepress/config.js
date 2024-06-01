@@ -29,6 +29,7 @@ export default defineUserConfig({
             '/builtin/modules/tts.md',
             '/builtin/modules/clipboard.md',
             '/builtin/modules/uuid.md',
+            '/builtin/modules/lib.md',
           ]
         }
       ]
