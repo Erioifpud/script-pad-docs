@@ -31,6 +31,7 @@ export default defineUserConfig({
             '/builtin/modules/uuid.md',
             '/builtin/modules/lib.md',
             '/builtin/modules/notice.md',
+            '/builtin/modules/misc.md',
           ]
         }
       ]
