@@ -6,6 +6,9 @@ actions:
   - text: 内置模块
     link: /builtin/
     type: primary
+  - text: 远程调用
+    link: /remote-call/
+    type: primary
 
 features:
   # - title: Simplicity First

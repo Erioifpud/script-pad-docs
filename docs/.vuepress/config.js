@@ -13,7 +13,12 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
-    navbar: ['/', '/builtin/'],
+    navbar: [
+      '/',
+      '/builtin/',
+      '/remote-call/',
+      { text: '启动参数', link: '/args/' }
+    ],
     sidebar: {
       '/builtin/': [
         {
