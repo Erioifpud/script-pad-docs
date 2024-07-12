@@ -17,7 +17,7 @@ export default defineUserConfig({
     sidebar: {
       '/builtin/': [
         {
-          text: '内置对象',
+          text: '内置模块',
           children: [
             '/builtin/modules/file-manager.md',
             '/builtin/modules/request.md',

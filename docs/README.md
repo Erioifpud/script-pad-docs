@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: 内置对象
+  - text: 内置模块
     link: /builtin/
     type: primary
 
