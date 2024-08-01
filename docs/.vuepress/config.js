@@ -17,7 +17,8 @@ export default defineUserConfig({
       '/',
       '/builtin/',
       '/remote-call/',
-      { text: '启动参数', link: '/args/' }
+      { text: '启动参数', link: '/args/' },
+      '/apis/'
     ],
     sidebar: {
       '/builtin/': [
@@ -37,6 +38,14 @@ export default defineUserConfig({
             '/builtin/modules/lib.md',
             '/builtin/modules/notice.md',
             '/builtin/modules/misc.md',
+          ]
+        }
+      ],
+      '/apis/': [
+        {
+          text: '接口',
+          children: [
+            '/apis/modules/image-upload.md',
           ]
         }
       ]
