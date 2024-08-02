@@ -1,6 +1,14 @@
 # Misc
 一些杂项操作，相当于 utils。
 
+## 接口描述
+```typescript
+interface ServerInfo {
+  host: string
+  port: number
+}
+```
+
 ## retry
 用于对 `Promise` 任务进行重试，`times` 为重试次数，`delay` 为每次重试的间隔时间。
 
@@ -55,4 +63,13 @@ static async toBase64(str: string): Promise<string>
 
 ```typescript
 static async fromBase64(b64: string): Promise<string>
+```
+
+---
+
+## getServerInfo
+获取本地 HTTP 服务信息。
+
+```typescript
+static async getServerInfo(): Promise<ServerInfo>
 ```
