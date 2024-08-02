@@ -8,7 +8,7 @@ export default defineUserConfig({
   base: '/script-pad-docs/',
 
   title: 'Script Pad',
-  description: 'Script Pad 相关文档',
+  description: 'Script Pad 相关文档（0.5.1）',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
