@@ -8,7 +8,7 @@ export default defineUserConfig({
   base: '/script-pad-docs/',
 
   title: 'Script Pad',
-  description: 'Script Pad 相关文档（0.5.1）',
+  description: 'Script Pad 相关文档（0.6.0）',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
@@ -26,6 +26,7 @@ export default defineUserConfig({
           text: '内置模块',
           children: [
             '/builtin/modules/ai.md',
+            '/builtin/modules/api.md',
             '/builtin/modules/app.md',
             '/builtin/modules/archive.md',
             '/builtin/modules/capture.md',
