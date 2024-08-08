@@ -19,7 +19,7 @@
 | 字段 | 类型 | 必填 | 描述 |
 | -------- | ---- | -------- | ----------- |
 | ``base64`` | string | true | 图片数据（`data` 头信息可有可无） |
-| ``mime_type`` | string | false | 图片 MIME 类型（默认 `image/png`） |
+| ``mime_type`` | string | false | 图片 MIME 类型（默认 `image/png`，内容可以为空，但字段需要传） |
 
 ### 响应
 
