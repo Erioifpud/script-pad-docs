@@ -18,7 +18,8 @@ export default defineUserConfig({
       '/builtin/',
       '/remote-call/',
       { text: '启动参数', link: '/args/' },
-      '/apis/'
+      '/apis/',
+      '/lowcode/',
     ],
     sidebar: {
       '/builtin/': [
@@ -56,6 +57,15 @@ export default defineUserConfig({
           children: [
             '/apis/modules/image-upload.md',
             '/apis/modules/image-cors.md',
+          ]
+        }
+      ],
+      '/lowcode/': [
+        {
+          text: '低代码编辑器',
+          children: [
+            '/lowcode/modules/group.md',
+            '/lowcode/modules/node.md',
           ]
         }
       ]
