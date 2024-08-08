@@ -55,6 +55,7 @@ export default defineUserConfig({
           text: '接口',
           children: [
             '/apis/modules/image-upload.md',
+            '/apis/modules/image-cors.md',
           ]
         }
       ]
