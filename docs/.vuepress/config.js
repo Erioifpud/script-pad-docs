@@ -35,6 +35,7 @@ export default defineUserConfig({
             '/builtin/modules/config.md',
             '/builtin/modules/doc.md',
             '/builtin/modules/file-manager.md',
+            '/builtin/modules/frame.md',
             '/builtin/modules/html.md',
             '/builtin/modules/input.md',
             '/builtin/modules/lib.md',
