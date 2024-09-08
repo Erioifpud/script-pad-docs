@@ -25,5 +25,5 @@ static async show(id: string, propsData: Record<string, any>, wrapperStyle?: CSS
 引用低代码模板，传入数据，获取组件的构造函数，通常用在脚本的 jsx 中，`id` 为模板 id，`propsData` 为渲染时传入的组件属性。
 
 ```typescript
-static async use(id: string, propsData: Record<string, any>): Promise<React.ReactElement<any, string | React.JSXElementConstructor<any>> | null>
+static use(id: string, propsData: Record<string, any>): React.ReactElement<any, string | React.JSXElementConstructor<any>> | null
 ```
