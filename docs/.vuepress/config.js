@@ -43,6 +43,7 @@ export default defineUserConfig({
             '/builtin/modules/notice.md',
             '/builtin/modules/path.md',
             '/builtin/modules/random.md',
+            '/builtin/modules/registry.md',
             '/builtin/modules/remote-call.md',
             '/builtin/modules/request.md',
             '/builtin/modules/template.md',
