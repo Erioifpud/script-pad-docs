@@ -6,6 +6,9 @@
 ## HTTP
 
 ### 调用脚本
+#### 例子
+请参考 [RemoteCall 模块](/script-pad-docs/builtin/modules/remote-call) 中的例子。
+
 #### 请求
 
 - Method: `POST`
