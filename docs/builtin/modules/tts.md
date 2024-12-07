@@ -5,5 +5,5 @@
 文字转语音并播放。
 
 ```typescript
-static async speak(text: string): Promise<void>
+static speak(text: string): void
 ```

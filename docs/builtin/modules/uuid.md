@@ -5,5 +5,5 @@ UUID 相关的操作。
 生成 UUID v4。
 
 ```typescript
-static async generate(): Promise<string>
+static generate(): string
 ```

@@ -5,7 +5,7 @@
 根据 key 获取对应的配置。
 
 ```typescript
-static async get(key: string): Promise<any>
+static get(key: string): any
 ```
 
 ---
@@ -14,7 +14,7 @@ static async get(key: string): Promise<any>
 获取所有配置的 key。
 
 ```typescript
-static async keys(): Promise<string[]>
+static keys(): string[]
 ```
 
 ---
@@ -23,5 +23,5 @@ static async keys(): Promise<string[]>
 获取所有配置的值。
 
 ```typescript
-static async values(): Promise<any[]>
+static values(): any[]
 ```

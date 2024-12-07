@@ -17,7 +17,7 @@ enum Mode {
 获取当前的调用模式。
 
 ```typescript
-static async getMode(): Promise<Mode>
+static getMode(): Mode
 ```
 
 ---

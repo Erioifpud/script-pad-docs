@@ -53,7 +53,7 @@ static async saveAsZip(binaryData: Uint8Array, title = 'download'): Promise<bool
 将字符串转换为 Base64 编码，`str` 为字符串内容。
 
 ```typescript
-static async toBase64(str: string): Promise<string>
+static toBase64(str: string): string
 ```
 
 ---
@@ -62,14 +62,5 @@ static async toBase64(str: string): Promise<string>
 将 Base64 编码转换为字符串，`b64` 为 Base64 编码内容。
 
 ```typescript
-static async fromBase64(b64: string): Promise<string>
-```
-
----
-
-## getServerInfo
-获取本地 HTTP 服务信息。
-
-```typescript
-static async getServerInfo(): Promise<ServerInfo>
+static fromBase64(b64: string): string
 ```
